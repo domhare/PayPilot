@@ -13,9 +13,6 @@
 	color: var(--dark);
 }
 
-.dropdown-mega-content-products .dropdown-mega-sub-title:hover {
-	background: var(--grey-100);
-}
 
 .dropdown-mega-sub-title-icon {
 	display: inline-flex;
