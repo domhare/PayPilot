@@ -185,7 +185,8 @@
 
 /* Top-level nav link size (dropdown menus untouched) */
 #header .header-nav-main.header-nav-main-text-size-4 nav > ul > li > a {
-	font-size: 16px;
+	font-size: 14px;
+	font-weight: 400;
 }
 
 /* Products mega menu (Vectron-style) */
