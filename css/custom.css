@@ -9,7 +9,7 @@
 	align-items: center;
 	gap: 10px;
 	border-radius: var(--border-radius2x);
-	padding: 8px 12px;
+	padding: 8px 12px 8px 0;
 	color: var(--dark);
 }
 
