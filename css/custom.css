@@ -1,11 +1,19 @@
 /* Vectron Smart hero */
+.hero-vectron-row {
+	max-height: 768px;
+	overflow: hidden;
+}
+
 .hero-vectron-panel {
 	background-color: var(--secondary);
 	min-height: 520px;
+	max-height: 768px;
+	overflow-y: auto;
 }
 
 .hero-vectron-image {
 	min-height: 320px;
+	max-height: 768px;
 }
 
 .hero-vectron-image img {
