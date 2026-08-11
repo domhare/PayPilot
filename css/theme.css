@@ -1675,7 +1675,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		color: var(--dark);
 		display: block;
 		font-size: 0.875em;
-		font-weight: normal;
+		font-weight: 500;
 		margin: 0 0 3px -8px;
 		padding: 3px 8px;
 		text-shadow: none;
