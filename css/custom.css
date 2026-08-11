@@ -1,0 +1,4 @@
+/* Top bar height */
+#header .header-top {
+	min-height: 34px;
+}
