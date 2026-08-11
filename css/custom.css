@@ -23,7 +23,7 @@
 	flex-shrink: 0;
 	border-radius: var(--border-radius);
 	background: var(--primary-rgba-10);
-	color: var(--primary);
+	color: var(--dark);
 	font-size: 14px;
 	margin-right: 0;
 }
