@@ -1,3 +1,38 @@
+/* Vectron Smart hero */
+.hero-vectron-panel {
+	background-color: var(--secondary);
+	min-height: 520px;
+}
+
+.hero-vectron-image {
+	min-height: 320px;
+}
+
+.hero-vectron-image img {
+	object-fit: cover;
+}
+
+.hero-vectron-contact {
+	position: absolute;
+	top: 50%;
+	right: 0;
+	transform: translateY(-50%);
+	width: 90px;
+	height: 64px;
+	background: var(--primary);
+	border-radius: var(--border-radius2x) 0 0 var(--border-radius2x);
+}
+
+.hero-vectron-contact:hover {
+	background: var(--primary-100);
+}
+
+@media (max-width: 991px) {
+	.hero-vectron-panel {
+		min-height: auto;
+	}
+}
+
 /* Top bar height */
 #header .header-top {
 	min-height: 34px;
