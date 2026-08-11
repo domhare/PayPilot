@@ -1,44 +1,24 @@
-/* Vectron Smart hero */
-.hero-vectron-row {
-	max-height: 768px;
+/* Mouse Hover Split hero (imported from demo-seo-3.html) */
+.mouse-hover-split {
+	min-height: 710px;
+}
+
+.mouse-hover-split .side {
+	display: grid;
+	min-height: 710px;
 	overflow: hidden;
-}
-
-.hero-vectron-panel {
-	background-color: var(--secondary);
-	min-height: 520px;
-	max-height: 768px;
-	overflow-y: auto;
-}
-
-.hero-vectron-image {
-	min-height: 320px;
-	max-height: 768px;
-}
-
-.hero-vectron-image img {
-	object-fit: cover;
-}
-
-.hero-vectron-contact {
 	position: absolute;
-	top: 50%;
-	right: 0;
-	transform: translateY(-50%);
-	width: 90px;
-	height: 64px;
-	background: var(--primary);
-	border-radius: var(--border-radius2x) 0 0 var(--border-radius2x);
+	width: 100%;
 }
 
-.hero-vectron-contact:hover {
-	background: var(--primary-100);
+.mouse-hover-split .side .side-content {
+	margin: 0px;
+	width: 100vw;
 }
 
-@media (max-width: 991px) {
-	.hero-vectron-panel {
-		min-height: auto;
-	}
+.mouse-hover-split .side-left {
+	width: 60%;
+	z-index: 1;
 }
 
 /* Top bar height */
