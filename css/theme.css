@@ -1488,7 +1488,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		font-style: normal;
 		font-weight: 600;
 		padding: 0.5rem 1rem;
-		letter-spacing: -0.5px;
+		letter-spacing: 0px;
 		text-transform: uppercase;
 		text-decoration: none;
 	}
@@ -1540,7 +1540,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		position: relative;
 		text-transform: none;
 		text-decoration: none;
-		letter-spacing: -0.5px;
+		letter-spacing: 0px;
 	}
 
 	#header .header-nav-main nav > ul > li.dropdown .dropdown-menu li a:hover, #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li a:focus, #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li a.active, #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li a:active {
@@ -1656,7 +1656,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		margin-top: 20px;
 		padding-bottom: 10px;
 		text-transform: none;
-		letter-spacing: -0.5px;
+		letter-spacing: 0px;
 	}
 
 	#header .header-nav-main nav > ul > li.dropdown-mega .dropdown-mega-sub-title:first-child {
@@ -1901,7 +1901,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		font-size: 13px;
 		font-style: normal;
 		font-weight: 600;
-		letter-spacing: -0.5px;
+		letter-spacing: 0px;
 		text-transform: uppercase;
 		position: relative;
 		background: transparent !important;
@@ -3938,7 +3938,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		font-size: 0.85em;
 		font-weight: 600;
 		text-transform: uppercase;
-		letter-spacing: -0.5px;
+		letter-spacing: 0px;
 	}
 
 	html.side-header-hamburguer-sidebar #header.side-header .header-nav.header-nav-links-vertical-expand nav > ul > li.dropdown.dropdown-mega .dropdown-mega-content .dropdown-mega-sub-nav {
@@ -15907,7 +15907,7 @@ html body .rounded-circle {
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 700;
-	letter-spacing: -0.5px;
+	letter-spacing: 0px;
 	text-transform: uppercase;
 	color: var(--light);
 	text-decoration: none;
