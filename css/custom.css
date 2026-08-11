@@ -177,14 +177,6 @@
 	text-decoration: underline;
 }
 
-/* Extra spacing between top nav items */
-#header .header-nav-main nav > ul > li {
-	margin-left: 16px;
-}
-#header .header-nav-main nav > ul > li:first-child {
-	margin-left: 0;
-}
-
 /* Products mega menu (Vectron-style) */
 .dropdown-mega-content-products .dropdown-mega-sub-title {
 	display: flex;
