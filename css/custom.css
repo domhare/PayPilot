@@ -1,26 +1,3 @@
-/* Mouse Hover Split hero (imported from demo-seo-3.html) */
-.mouse-hover-split {
-	min-height: 710px;
-}
-
-.mouse-hover-split .side {
-	display: grid;
-	min-height: 710px;
-	overflow: hidden;
-	position: absolute;
-	width: 100%;
-}
-
-.mouse-hover-split .side .side-content {
-	margin: 0px;
-	width: 100vw;
-}
-
-.mouse-hover-split .side-left {
-	width: 60%;
-	z-index: 1;
-}
-
 /* Top bar height */
 #header .header-top {
 	min-height: 34px;
