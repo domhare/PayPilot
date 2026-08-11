@@ -177,6 +177,36 @@
 	text-decoration: underline;
 }
 
+/* Products mega menu (Vectron-style) */
+.dropdown-mega-content-products .dropdown-mega-sub-title {
+	display: flex;
+	align-items: center;
+	color: #1a1a1a;
+}
+.dropdown-mega-sub-title-icon {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 20px;
+	margin-right: 10px;
+	font-size: 1rem;
+	color: #4c7a5b;
+}
+.badge-mega {
+	display: inline-block;
+	background: #4c7a5b;
+	color: #fff;
+	font-size: 10px;
+	font-weight: 700;
+	letter-spacing: .02em;
+	text-transform: uppercase;
+	border-radius: 4px;
+	padding: 1px 6px;
+	margin-left: 6px;
+	line-height: 1.6;
+	vertical-align: middle;
+}
+
 @media (max-width: 991px) {
 	.su-nav-list {
 		gap: 16px;
