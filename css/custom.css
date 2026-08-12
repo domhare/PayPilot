@@ -1,19 +1,4 @@
-/* Top bar height */
-#header .header-top {
-	min-height: 34px;
-}
-
-/* Mega menu column headers */
-.dropdown-mega-content-products .dropdown-mega-sub-title {
-	display: flex;
-	align-items: center;
-	gap: 10px;
-	border-radius: var(--border-radius2x);
-	padding: 8px 12px 8px 0;
-	color: var(--dark);
-}
-
-
+/* Mega menu column icons */
 .dropdown-mega-sub-title-icon {
 	display: inline-flex;
 	align-items: center;
@@ -25,5 +10,20 @@
 	background: var(--primary-rgba-10);
 	color: var(--dark);
 	font-size: 14px;
-	margin-right: 0;
+}
+
+/* Mega menu NEU/TOP badges */
+.badge-mega {
+	display: inline-block;
+	background: var(--primary);
+	color: var(--light);
+	font-size: 10px;
+	font-weight: 700;
+	letter-spacing: .02em;
+	text-transform: uppercase;
+	border-radius: 4px;
+	padding: 1px 6px;
+	margin-left: 6px;
+	line-height: 1.6;
+	vertical-align: middle;
 }
